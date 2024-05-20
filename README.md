@@ -9,16 +9,17 @@ I have designed and implemented a database to manage school-related information.
 ### Tables
 The database consists of the following 10 tables:
 
-Students
-Classes
-Parents
-Subjects
-Student_Parent
-Staff
-Staff_Salary
-Address
-School
-Student_Classes
+1. **Students**
+2. **Classes**
+3. **Parents**
+4. **Subjects**
+5. **Student_Parent**
+6. **Staff**
+7. **Staff_Salary**
+8. **Address**
+9. **School**
+10. **Student_Classes**
+
 
 ### Data Insertion : 
 I have populated the tables with data for around 1000 students, ensuring a robust dataset for practicing SQL queries.
@@ -31,6 +32,6 @@ CASE Statements: Implemented conditional logic to enhance data queries.
 I will continue to use this database in future projects to explore more advanced SQL commands and functions. Stay tuned for more updates!
 
 ### Connect with Me
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/ayshath-lubna-16561226b) to follow my journey and see more of my work.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayshath-lubna-16561226b) to follow my journey and see more of my work.
 
 
